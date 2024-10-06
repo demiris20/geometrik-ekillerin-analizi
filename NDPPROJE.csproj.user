@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
